@@ -1,21 +1,21 @@
 {
-  "name": "sanity-plugin-workflow",
+  "name": "sanity-plugin-inventory-workflow",
   "version": "1.0.4",
-  "description": "A demonstration of a custom content publishing workflow using Sanity.",
+  "description": "A demonstration of a custom inventory management and checkout workflow tool using Sanity.",
   "keywords": [
     "sanity",
     "sanity-plugin"
   ],
-  "homepage": "https://github.com/sanity-io/sanity-plugin-workflow#readme",
+  "homepage": "https://github.com/emmalevesque/sanity-plugin-inventory-workflow#readme",
   "bugs": {
-    "url": "https://github.com/sanity-io/sanity-plugin-workflow/issues"
+    "url": "https://github.com/emmalevesque/sanity-plugin-inventory-workflow/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanity-io/sanity-plugin-workflow.git"
+    "url": "git@github.com:emmalevesque/sanity-plugin-workflow.git"
   },
   "license": "MIT",
-  "author": "Sanity.io <hello@sanity.io>",
+  "author": "Emma Levesque-Schaefer <emma@els.studio>",
   "exports": {
     ".": {
       "types": "./lib/index.d.ts",

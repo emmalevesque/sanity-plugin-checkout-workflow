@@ -1,8 +1,10 @@
 > This is a **Sanity Studio v3** plugin.
 
-# Sanity Workflow Demo Plugin Example
+# Sanity Inventory Workflow Demo Plugin Example
 
 With Sanity Studio you can [customize your content tools to support arbitrary workflows like assignment and content pipelines](https://www.sanity.io/docs/custom-workflows).
+
+**TODO: rewrite this below**
 
 This plugin is distributed as an **example implementation** of customization APIs in the Sanity Studio V3 and is not considered to be a feature-complete implementation of what workflow management requires in production. It is meant as a starting point intended to be forked and customized to the needs of your organization and content creators, or simply as an illustration of what is possible in Sanity Studio V3.
 
