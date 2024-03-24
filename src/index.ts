@@ -26,7 +26,7 @@ export const workflow = definePlugin<WorkflowConfig>(
     }
 
     return {
-      name: 'sanity-plugin-workflow',
+      name: 'sanity-plugin-inventory-workflow',
       schema: {
         types: [metadata(states)],
       },
